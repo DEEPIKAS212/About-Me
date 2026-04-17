@@ -4,13 +4,14 @@ Aspiring Data Scientist sharing my projects, skills, and progress in Machine Lea
 * Bachelor of Computer Science Student  
 * Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst | AI Engineer
 ##  About Me
-- Currently learning Data Structures & Algorithms using Python  
+- Currently building the AI sign detection projects using Python, LSTM,CNN,MobileNetV2,EfficientV2B0
 - Interested in Machine Learning and Data Science  
 - Worked on projects like House Price Prediction & ITSM System  
 - Goal: To build impactful real-world data-driven solutions  
 ## Skills
-- Programming: Python  
-- Libraries: Pandas, NumPy, Scikit-learn  
+- Programming: Python,SQL 
+- Libraries: Pandas, NumPy, Scikit-learn
+- AI/ML Tools : PyTorch,TensorFlow, BigData,NLP,LSTM,LLM,BERT,HuggingFace,Hadoop  
 - Tools: Jupyter Notebook, Git, GitHub
 ##  Projects
 - Heart Disease Prediction
